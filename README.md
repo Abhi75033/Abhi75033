@@ -1,4 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+
+
+<h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+build+Real-time+Apps+%F0%9F%92%BB;AI-powered+Web+Solutions+%F0%9F%96%A5%EF%B8%8F;Cloud+Gaming+Projects+%F0%9F%8E%AE+on+AWS" alt="Typing SVG" />
+</p>
 <p align="center">
   <a href="https://linkedin.com/in/abhishekkumar-webdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
@@ -13,13 +20,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
-
-<h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+build+Real-time+Apps+%F0%9F%92%BB;AI-powered+Web+Solutions+%F0%9F%96%A5%EF%B8%8F;Cloud+Gaming+Projects+%F0%9F%8E%AE+on+AWS" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 💡 About Me
