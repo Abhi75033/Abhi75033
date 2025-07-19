@@ -16,7 +16,6 @@
 
 ---
 
----
 
 ### 🛠️ Technologies & Tools
 
@@ -71,10 +70,6 @@
   <img alt="Agile" src="https://img.shields.io/badge/Agile-000?logo=jira&logoColor=white" />
 </p>
 
-#### DSA
-<p align="left">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /> Solved 150+ problems
-</p
 
 
 
