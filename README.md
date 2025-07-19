@@ -76,26 +76,7 @@
   <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /> Solved 150+ problems
 </p
 
----
 
-### 🧰 Tools & Platforms
-
-<p align="left">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img alt="AWS EC2" src="https://img.shields.io/badge/AWS_EC2-FF9900?logo=amazon-aws&logoColor=white" />
-  <img alt="WebRTC" src="https://img.shields.io/badge/WebRTC-ECD53F?logo=webrtc&logoColor=black" />
-  <img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000?logo=python&logoColor=white" />
-  <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-007ACC?logo=azure-devops&logoColor=white" />
-  <img alt="Agile" src="https://img.shields.io/badge/Agile-000?logo=jira&logoColor=white" />
-</p>
 
 ---
 
@@ -110,9 +91,7 @@ Feel free to copy‑paste this into your README.md. Let me know if you’d like 
   <img src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode 150+ solved" />
 </p>
 
----
 
----
 
 
 ---
