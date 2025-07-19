@@ -71,10 +71,15 @@
   <img alt="Agile" src="https://img.shields.io/badge/Agile-000?logo=jira&logoColor=white" />
 </p>
 
-#### DSA
+---
+
+### 🏆 Achievements
+
 <p align="left">
-  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /> Solved 150+ problems
-</p
+  <img src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode 150+ solved" />
+</p>
+
+---
 
 ---
 
