@@ -103,14 +103,27 @@
 
 ---
 
-### 📫 Let's Connect
+---
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekkumar-webdev)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:abhishyadav1112.21@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox&logoColor=white)](https://ab-his-hek-kumar.link)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Abhi75033)
+### 📫 Let’s Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekkumar-webdev" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhishyadav1112.21@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://ab-his-hek-kumar.link" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Abhi75033" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
 
 ---
+
 
 ### 📌 Pinned Projects
 
