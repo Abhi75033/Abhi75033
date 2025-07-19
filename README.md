@@ -71,13 +71,6 @@
 </p>
 
 
-
-
----
-
-Feel free to copy‑paste this into your README.md. Let me know if you’d like any layout tweaks or additions!
-
-
 ---
 
 ### 🏆 Achievements
