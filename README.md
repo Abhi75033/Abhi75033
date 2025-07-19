@@ -90,6 +90,17 @@
 
 ---
 
+### 🖋️ Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi75033&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>
+
+---
+
+
+---
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishekkumar-webdev)
