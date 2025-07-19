@@ -1,4 +1,18 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/abhishekkumar-webdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abhishyadav1112.21@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://ab-his-hek-kumar.link" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/Abhi75033" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
+  </a>
+</p>
 <h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
 
 <p align="center">
