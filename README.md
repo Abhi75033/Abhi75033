@@ -3,8 +3,16 @@
 
 <h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
 
-<!-- Follow & Sponsor Buttons -->
 
+<!-- Follow & Sponsor Buttons -->
+<p align="center">
+  <a href="https://github.com/Abhi75033">
+    <img src="https://img.shields.io/github/followers/Abhi75033?label=Follow&style=for-the-badge" alt="GitHub Followers"/>
+  </a>
+  <a href="https://www.buymeacoffee.com/abhikumar" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge" alt="Sponsor Button"/>
+  </a>
+</p>
 
 
 
