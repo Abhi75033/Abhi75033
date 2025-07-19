@@ -46,12 +46,13 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 
 #### Backend
 <p align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img alt="REST API" src="https://img.shields.io/badge/REST_API-000?logo=rest&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?logo=objectivec&logoColor=white" />
+ <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+<img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-000?logo=rest&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+<img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?logo=objectivec&logoColor=white" />
+<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 </p>
 
 #### Database
