@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
   </a>
 </p>
----
+
 <h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
 
 <p align="center">
