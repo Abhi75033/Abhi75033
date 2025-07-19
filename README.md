@@ -6,12 +6,25 @@
 
 
 
-### 💡 About Me
+## 🌥️ About Me
 
-- 🌱 Currently exploring **AI + MERN Stack**
-- 🛠️ Built a multiplayer **Cloud Gaming Platform** using WebRTC + AWS EC2 + Docker  
-- 💻 150+ DSA problems solved on [LeetCode](https://leetcode.com/u/user1737JS/)
-- 🛠️ Working on projects with **LangChain**, **OpenAI**, and **CI/CD**
+I’m passionate about crafting robust cloud infrastructure solutions that drive business growth and efficiency. With **2+ years** of experience in cloud architecture, deployment, and optimization, I thrive in dynamic environments where I can leverage my expertise to overcome complex challenges.
+
+---
+
+### 🔧 My Skill Set Includes:
+
+- **Cloud Platforms:** Proficient in AWS, Azure, and Google Cloud Platform, with hands‑on experience designing and implementing multi‑cloud architectures.  
+- **Infrastructure as Code (IaC):** Expertise in Terraform and CloudFormation for automating infrastructure provisioning, configuration, and management.  
+- **Containerization:** Skilled in Docker and Kubernetes for container orchestration, deployment, and scaling.  
+- **CI/CD:** Experienced in building pipelines with Jenkins, GitLab CI/CD, and AWS CodePipeline to automate software delivery.  
+- **Monitoring & Logging:** Familiar with Prometheus, Grafana, and the ELK Stack for real‑time monitoring, logging, and performance optimization.  
+- **Security & Compliance:** Knowledgeable about cloud security best practices, implementing IAM policies, encryption, and standards like GDPR and HIPAA.  
+
+---
+
+📫 **Connect with me:**  
+Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com/in/your-profile) for collaborations, questions, or just to say hi!  
 
 ---
 
