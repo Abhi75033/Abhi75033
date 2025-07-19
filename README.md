@@ -4,15 +4,7 @@
 <h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
 
 <!-- Follow & Sponsor Buttons -->
-<p align="center">
-  <a href="https://github.com/Abhi75033?tab=followers" target="_blank">
-    <img src="https://img.shields.io/badge/Follow-@Abhi75033-1DA1F2?style=social&logo=github" alt="Follow on GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/sponsors/Abhi75033" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-❤-EA4AAA?style=for-the-badge&logo=github" alt="Sponsor me on GitHub"/>
-  </a>
-</p>
+
 
 
 
