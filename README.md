@@ -7,22 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+build+Real-time+Apps+%F0%9F%92%BB;AI-powered+Web+Solutions+%F0%9F%96%A5%EF%B8%8F;Cloud+Gaming+Projects+%F0%9F%8E%AE+on+AWS" alt="Typing SVG" />
 </p>
 
-<!-- ============================================ -->
-<!--    Follow & Sponsor Buttons (centered)      -->
-<!-- ============================================ -->
-<p align="center">
-  <a href="https://github.com/Abhi75033?tab=followers" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Follow-3k-blue?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Follow on GitHub"/>
-  </a>
-  <a href="https://github.com/sponsors/Abhi75033" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-1abc9c?style=for-the-badge&logo=github&logoColor=white" 
-      alt="Sponsor me on GitHub"/>
-  </a>
-</p>
-
 
 ## 🌥️ About Me
 
