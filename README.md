@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
-
 <h3 align="center">Full Stack Developer | MERN | AI Enthusiast | Cloud Gamer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+build+Real-time+Apps+%F0%9F%92%BB;AI-powered+Web+Solutions+%F0%9F%96%A5%EF%B8%8F;Cloud+Gaming+Projects+%F0%9F%8E%AE+on+AWS" alt="Typing SVG" />
 </p>
 
+---
 
 ## 🌥️ About Me
 
@@ -16,11 +16,11 @@ I’m passionate about crafting robust cloud infrastructure solutions that drive
 
 ### 🔧 My Skill Set Includes:
 
-- **Cloud Platforms:** Proficient in AWS, Azure, and Google Cloud Platform, with hands‑on experience designing and implementing multi‑cloud architectures.  
+- **Cloud Platforms:** Proficient in AWS, Azure, and Google Cloud Platform, with hands-on experience designing and implementing multi-cloud architectures.  
 - **Infrastructure as Code (IaC):** Expertise in Terraform and CloudFormation for automating infrastructure provisioning, configuration, and management.  
 - **Containerization:** Skilled in Docker and Kubernetes for container orchestration, deployment, and scaling.  
 - **CI/CD:** Experienced in building pipelines with Jenkins, GitLab CI/CD, and AWS CodePipeline to automate software delivery.  
-- **Monitoring & Logging:** Familiar with Prometheus, Grafana, and the ELK Stack for real‑time monitoring, logging, and performance optimization.  
+- **Monitoring & Logging:** Familiar with Prometheus, Grafana, and the ELK Stack for real-time monitoring, logging, and performance optimization.  
 - **Security & Compliance:** Knowledgeable about cloud security best practices, implementing IAM policies, encryption, and standards like GDPR and HIPAA.  
 
 ---
@@ -29,7 +29,6 @@ I’m passionate about crafting robust cloud infrastructure solutions that drive
 Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com/in/your-profile) for collaborations, questions, or just to say hi!  
 
 ---
-
 
 ### 🛠️ Technologies & Tools
 
@@ -46,13 +45,13 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 
 #### Backend
 <p align="left">
- <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-<img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-<img alt="REST API" src="https://img.shields.io/badge/REST_API-000?logo=rest&logoColor=white" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
-<img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-<img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?logo=objectivec&logoColor=white" />
-<img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST_API-000?logo=rest&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-8A2BE2?logo=objectivec&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" />
 </p>
 
 #### Database
@@ -85,7 +84,6 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
   <img alt="Agile" src="https://img.shields.io/badge/Agile-000?logo=jira&logoColor=white" />
 </p>
 
-
 ---
 
 ### 🏆 Achievements
@@ -94,16 +92,25 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
   <img src="https://img.shields.io/badge/LeetCode-150%2B_solved-FFA116?logo=leetcode&logoColor=white" alt="LeetCode 150+ solved" />
 </p>
 
-
-
-
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi75033&show_icons=true&theme=tokyonight" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi75033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Abhishek's GitHub stats" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi75033&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi75033&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi75033&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi75033&theme=tokyonight" />
 </p>
 
 ---
@@ -113,10 +120,6 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi75033&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
-
-
-
----
 
 ---
 
@@ -139,7 +142,6 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 
 ---
 
-
 ### 📌 Pinned Projects
 
 - 🎮 [**Arcdeum – Cloud Gaming Platform**](https://github.com/Abhi75033/Arcdeum)
@@ -149,7 +151,3 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 ---
 
 > “Code is poetry. I'm here to write beautiful verses that scale.”
-
----
-
-Would you like this as a downloadable Markdown file or want help uploading it to your GitHub profile as a `README.md`?
