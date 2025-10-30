@@ -94,22 +94,26 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats (Live)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi75033&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Abhishek's GitHub stats" />
+  <!-- Shows your total commits since account creation -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhi75033&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&custom_title=Abhishek's+GitHub+Stats" alt="Abhishek's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhi75033&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhi75033&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- A++ Style Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi75033&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi75033&theme=tokyonight" />
 </p>
 
 <p align="center">
+  <!-- Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi75033&theme=tokyonight" />
 </p>
 
@@ -117,8 +121,8 @@ Feel free to reach out on Telegram or connect on [LinkedIn](https://linkedin.com
 
 ### 🖋️ Most Used Languages
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi75033&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi75033&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
